@@ -19,3 +19,8 @@ Tham gia dịch và xây dựng slide cho phần thuyết trình về Testing:
 và [Link2](https://github.com/QuangHaiDo/INT2208-4-2018/tree/master/DoQuangHai/Testing-dich)
 
 Phần chấm điểm chéo:
+- Người chấm: Trần Thị Quỳnh Giao
+- Điểm: 9
+- Nhận xét:
+  - Làm bài tập tuần, có dẫn chứng.
+  - Làm bài tập nhóm và bài tập thuyết trình có link dẫn chứng.
